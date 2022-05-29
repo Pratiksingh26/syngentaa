@@ -36,3 +36,40 @@
     transform: rotate(360deg);
   }
 }
+
+.circle{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 1px solid black;
+  margin: 10px;
+  
+}
+
+.mega{
+  display: flex;
+}
+
+.empty{
+  border: 1px solid black;
+  height: 550px;
+  width: 500px;
+
+}
+
+.right{
+  margin-left: 50px;
+}
+
+.pratik{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 1px solid black;
+  margin: 10px;
+}
+.container{
+
+  width: fit-content;
+  margin: auto;
+}
